@@ -4,5 +4,8 @@
 
 print("Hello world")
 
-def name_calling():
-    return None
+if __name__ = "__main__":
+    print("Nothing bro. Just playing with git")
+
+def name_calling(*args):
+    return 'Emmanuel'
